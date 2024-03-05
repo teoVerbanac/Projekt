@@ -1,1 +1,13 @@
 Text u novom filu
+novi dir
+git init .
+git status
+git add primjer ili . za sve
+git log + --graph
+git branch za pokazat grane + ime nova grana
+git diff razlike izmedu commitova
+git checkout za branch nav
+
+git remote add origin main
+git push origin main
+

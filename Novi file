@@ -11,3 +11,4 @@ git checkout za branch nav
 git remote add origin main
 git push origin main
 
+Issues su listovi za stablo, odozgora su milestoni
